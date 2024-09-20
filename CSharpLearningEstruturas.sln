@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1EstruturaIf", "CSharpLearningEstruturas\1EstruturaIf.csproj", "{2F81FEC1-9C7A-404B-A1FF-7DFBC603BCAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F81FEC1-9C7A-404B-A1FF-7DFBC603BCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F81FEC1-9C7A-404B-A1FF-7DFBC603BCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F81FEC1-9C7A-404B-A1FF-7DFBC603BCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F81FEC1-9C7A-404B-A1FF-7DFBC603BCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC857F12-D502-442D-96ED-829AFD012C18}
+	EndGlobalSection
+EndGlobal
