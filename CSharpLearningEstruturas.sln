@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1EstruturaIf", "CSharpLearningEstruturas\1EstruturaIf.csproj", "{2F81FEC1-9C7A-404B-A1FF-7DFBC603BCAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2EstruturaIfElse", "2EstruturaIfElse\2EstruturaIfElse.csproj", "{BFDE3472-FBB2-45FA-BB82-FB7084A70E4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2F81FEC1-9C7A-404B-A1FF-7DFBC603BCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F81FEC1-9C7A-404B-A1FF-7DFBC603BCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F81FEC1-9C7A-404B-A1FF-7DFBC603BCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFDE3472-FBB2-45FA-BB82-FB7084A70E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDE3472-FBB2-45FA-BB82-FB7084A70E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDE3472-FBB2-45FA-BB82-FB7084A70E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDE3472-FBB2-45FA-BB82-FB7084A70E4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
